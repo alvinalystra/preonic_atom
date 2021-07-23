@@ -1,5 +1,7 @@
 # Preonic Rev. 3 Bluetooh LE Support (Atom Lite Version)
 
+![P1090624](https://user-images.githubusercontent.com/18656160/126756077-a5d76817-58b2-4d8d-aa3a-30af7d0dac55.JPG)
+
 Planck Rev. 6 の Bluefruite を使った Bluetooth LE 無線化とほぼ同じですが、こちらはより安い Atom Lite を使ってみました。
 
 ## 準備するもの
