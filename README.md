@@ -135,7 +135,7 @@ quantum/process_keycode/process_dynamic_macro.c の dynamic_macro_play の中の
 ## Atom Lite
 
 Arduino 開発環境を使用します。
-Planck_atom.ino を書き込みます。
+reonic_atom.ino を書き込みます。
 
 ## 使い方
 Atom Lite にモバイルバッテリーをつなぐか、Preonic にモバイルバッテリーをつなげば動きます。
