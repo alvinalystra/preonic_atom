@@ -30,8 +30,11 @@ Planck Rev. 6 の Bluefruite を使った Bluetooth LE 無線化とほぼ同じ�
 Preonic Rev. 3 と Atom Lite は以下の結線をします。Atom Lite には Grove の口があるのでそこを使用しました。
 
 Preonic - Atom Lite (Grove)
+
 GND - GND
+
 Vsub - 5V
+
 SCL - G32
 
 ## QMK の変更
@@ -137,7 +140,7 @@ quantum/process_keycode/process_dynamic_macro.c の dynamic_macro_play の中の
 ## Atom Lite
 
 Arduino 開発環境を使用します。
-reonic_atom.ino を書き込みます。
+preonic_atom.ino を書き込みます。
 
 ## 使い方
 Atom Lite にモバイルバッテリーをつなぐか、Preonic にモバイルバッテリーをつなげば動きます。
